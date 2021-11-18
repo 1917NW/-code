@@ -1,0 +1,4 @@
+﻿  expressionNode.cpp
+D:\visual studio\expressionTree\expressionNode.cpp(40,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\visual studio\expressionTree\expressionNode.cpp(90,20): warning C4018: “<”: 有符号/无符号不匹配
+  expressionTree.vcxproj -> D:\visual studio\expressionTree\Debug\expressionTree.exe
